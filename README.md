@@ -1,3 +1,3 @@
 # hello-world
 hello world description
-Trying to master GitHub
+Still trying to master GitHub
